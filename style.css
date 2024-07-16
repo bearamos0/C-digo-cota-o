@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600&display=swap');
+
+body{
+  background-image: url(img/Fundo.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin: 0%;
+      
+}
+
+
+.darker{
+color:#064dad;
+width:100%;
+border:0; 
+width:100%;
+font-size:20px;
+margin-left: 0.5rem;
+margin-right: 0.5rem;
+}
+.image{
+  text-align: right;
+  width:200; 
+  height:200;
+}
+.cabeça{
+  border: 0;
+  height: 300px;
+  width: 100%;
+}
+.clientes{
+  text-align:left; 
+  height:30;
+  width:95%; 
+  border: 50px;
+  font-size:15px;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+.numero{
+  border-collapse: collapse;
+  width: 100%;
+  height: 50%;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+.tabela{
+  border-collapse: collapse;
+  width: 98%;
+  height: 50%;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+.tabela{
+  border: 2px solid #064dad;
+  padding: 5px;
+  text-align: center;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+.tabela-dado{
+  border: 2px solid #064dad;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+tfoot td{
+  color: #064dad;
+  text-align: center;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.rodape{
+  color: #064dad;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.email{
+  size: 2;
+  color: #FFFFFF;
+  border-color:#064dad;
+  background-color:#064dad; 
+  box-align:center;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+.valor-total{
+  text-align: center;
+}
+.ac{
+  font-family: Calibri, Arial, Helvetica, sans-serif;
+  font-size:12px;
+  font-weight: bold;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}		 
+.item{
+font-family: Calibri, Arial, Helvetica, sans-serif;
+font-size:15px;
+background-color: #FFFFFF;		
+border-style: solid;
+color: black; 
+text-align:center;
+padding: 10px,5px;
+}	
+.total .reais{
+  size: 7px;
+}		
+.total{
+font-family: Calibri, Arial, Helvetica, sans-serif;
+font-size:12px;
+background-color: #064dad;			
+border-style: solid;
+color: white; 
+text-align:center;
+}					
+.obs{
+color: #064dad;
+width:"100%";
+font-family:  Calibri, Arial, Helvetica, sans-serif;
+font-size:12px;
+text-align: left;	   
+}			
+.obsred{
+color: #064dad;
+width:"100%";
+font-family:  Calibri, Arial, Helvetica, sans-serif;
+font-size:12px;
+text-align: left;	   
+background-color:#EAEAEA;
+}		
+.valor-total{
+  display: flex;
+  justify-content: left;
+  Width:10%; 
+  column-span:3;
+}		   
+.style1 {
+color: #064dad;
+font-weight: bold;
+font-size:12px;
+}
+.dados{font-family: Calibri, Arial, Helvetica, sans-serif;
+font-size:15px;
+background-color:#FFFFFF;		
+color: black; 
+text-align: left;	
+-webkit-prnit-color-adjust: exact;
+margin-top: 0.5rem;
+margin-left: 0.5rem;
+margin-right: 0.5rem;
+}			
+.conbold{	
+font-family: Calibri, Arial, Helvetica, sans-serif;
+font-size:16px;
+background-color:#FFFFFF;		
+color: black; 
+font-weight: bold;
+vertical-align:top;
+text-align: left;	
+}		
+.contopico{	
+font-family: Calibri, Arial, Helvetica, sans-serif;
+font-size:20px;
+background-color:#FFFFFF;		
+color: black; 
+vertical-align:top;
+text-align: left;	
+}				
+.rodape{
+color: white;
+font-family:  Calibri, Arial, Helvetica, sans-serif;
+font-size:12px;
+text-align: center;
+background-image: url(img/Rodapé.png);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+margin: 0%;
+padding: 0.5rem;
+}			
+.produto{	
+font-family: Calibri, Arial, Helvetica, sans-serif;
+font-size:16px;
+font-weight: bold;
+color:black; 
+text-align: center;	
+}		
